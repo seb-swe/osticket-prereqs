@@ -132,13 +132,5 @@ This lab outlines the prerequisites and step-by-step installation process for th
 
 ## Conclusion
 
-**osTicket installation and configuration completed successfully, ready for use as a support ticket system.**
-
----
-
-If you encounter issues, ensure all prerequisites are installed correctly and permissions are set appropriately.
-
----
-
-*Feel free to customize PHP versions, database credentials, and paths to match your environment.*
+This lab demonstrates practical skills in deploying osTicket on a Windows IIS server within an Azure VM environment. It covers critical tasks such as IIS and PHP configuration, MySQL database setup, file permission management, and application deployment. Successfully completing this lab highlights the ability to install and configure enterprise-grade help desk solutions, ensuring proper security, performance, and maintainability in a real-world IT environment.
 
